@@ -60,7 +60,7 @@ The simulation is intentionally separate from the UI. A future integration can r
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/qt-automotive-tachometer.git
+   git clone https://github.com/amadich/qt-automotive-tachometer.git
    cd qt-automotive-tachometer
    ```
 
