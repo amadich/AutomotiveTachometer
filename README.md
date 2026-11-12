@@ -125,6 +125,3 @@ Actual integration requires the vehicle manufacturer's interface specifications,
 
 This project is intended for **HMI prototyping, Qt/QML learning and engineering demonstrations**. It must not be relied upon to display safety-critical driving information. Production deployment would require a separate engineering and verification effort addressing real-time behavior, signal validity, failure handling, hardware constraints, and applicable automotive safety and cybersecurity requirements.
 
-## License
-
-No license is included by default. Add a `LICENSE` file if you want to define reuse and contribution permissions.
