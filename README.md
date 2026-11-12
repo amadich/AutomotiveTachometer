@@ -6,8 +6,7 @@ An automotive RPM tachometer prototype built with **Qt 6, C++ and QML**. The pro
 
 ## Preview
 
-<img width="1212" height="890" alt="image" src="https://github.com/user-attachments/assets/a0a356e1-c14f-49ba-aad2-5ee72ce3385b" />
-
+<img width="1212" height="890" alt="image" src="https://github.com/user-attachments/assets/c0037a34-c430-470b-ba66-dc61b2931c71" />
 
 ## Features
 
